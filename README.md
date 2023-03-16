@@ -90,10 +90,10 @@ to be a professional developer
     
 ### Who I am?
 
-After five years in retail, I have come to realize my passion for technology and my love for challenges.<br/>
-I have been self-teaching front-end development for some time and have been fascinated by the potential of technology to impact people's lives.<br/>
-I am excited to learn more about software development, particularly in the back-end, to gain a more comprehensive understanding of the industry.<br/>
-As a dog owner and volunteer with the Red Cross for 7 years, I have improved my interpersonal skills and a passion for helping others.<br/>
+After five years in retail, I have come to realize my passion for technology and my love for challenges.
+I have been self-teaching front-end development for some time and have been fascinated by the potential of technology to impact people's lives.
+I am excited to learn more about software development, particularly in the back-end, to gain a more comprehensive understanding of the industry.
+As a dog owner and volunteer with the Red Cross for 7 years, I have improved my interpersonal skills and a passion for helping others.
 I am driven to create elegant and efficient code, and I am actively seeking opportunities to grow and expand my skillset in programming.
 
 ### In my freetime I love: 
