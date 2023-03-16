@@ -14,6 +14,8 @@
 
 🔭 I’m currently working on my portfolio, and doing algorithmic exercises to be a professional developer
 
+:dart: 2023 goal: use Angular & Vue.js
+
 
 ### In my freetime I love: 
 
