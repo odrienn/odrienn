@@ -14,7 +14,6 @@
 
 🔭 I’m currently working on my portfolio, and doing algorithmic exercises to be a professional developer
 
-<br />
 
 ### In my freetime I love: 
 
