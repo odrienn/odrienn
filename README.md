@@ -8,24 +8,15 @@
 <div id="header" align="center">
 <img src="https://lh3.googleusercontent.com/HsBpmb1OjwafONMwij-ZVnpmaBE6_KZDzt27LNeHkCEBWCwrvkwnUeQGr_cD5jnORAbmmhNn8To9QAL-qCSAZS1jJv9uVzGMG-Cvt5UGfdG7-xZhJ-VycUE4FCje8ePN1-5r9iwOvhKTA9vaT1lHLpdl_rU7D6WfSSqEnlRVkyHGV8SiMVcy5E3h9KiUJ8MzTNg0JALxgNmyz59ImT-Bv6yuW2tg5buLT_iSM8JJ-UH42S_5tAUzfEnTe6nB0pOZQvPebCcUANJnHzu-CenaEUQi4rDFOXZ0iI25f6-X_qbcDTpQ4RbScq3BwD47g0IjGK_QN_JfTJCyZVWwYE0ySVTqr3Hr2-IuLJ7I2G9iMLS2Ctv8EXeBeUgQpKzWG_2toLv0e6K2rCgMAHrgb6NAMv2Yrea-KRvsfTnt4VI6AEtoKfmfrlifMrixlXyJK4byUFS_a9EFNz3xGwVlRQQ7yKsdm4cBsVUo1hT8jEFgpVt7mCrNDGoYYA36reBTmaH-jw9xfNflDAlUEzsOueHRYnpVvnnvOvdVp9JLLbUHHog5wqOvV6NPAt0goNu20WFDvENl8expqc3tZgbzNhM7-8rmTXBL1zVx1pYIr3c4-XzUk0WMWKVDQK56xtlYjD4wC0wJFWL6j-p9Njh_pbb4CD02V8NPa0vLI7zXFdHC8q200S-ZipBDZVpvpb9Iz6SqtB1M1JUw5v7RQ2F9GBpAGim_ibi8or6egDhTnnOMLzT7MiIVfGe-xhxJfDCLd_C6r6GbLzuogCScikBc2-3obssDJc6peBOFTLNnKJId6uLQkHYhNy4CAuDsgl08hJ6o-BxyhaDZoaspqpQhRm9upTIZgmm4PAZXkGQm7RJnSBmMvDep865SXacBOyaoUelcyV1RUAlbXd7CKn2OlaMl6cMlZfjGR3iOuhKhIzXh3MYuveNfIE608BAhMMSNR44YgOdT0UZtk1pb8VO7yb_jBGzyrR53PvkclqPsphC8m88DIlrBrrKzHXBgPrgRdonx45uMyOejFuhO2yxnn6rm=s893-no?authuser=0" width="130"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <br/>
 
-🔭 I’m currently working on my portfolio, and doing algorithmic exercises to be a professional developer
+🔭 I’m currently working on my portfolio </br>
+and doing algorithmic exercises <br/>
+to be a professional developer
 
 :dart: 2023 goal: use Angular & Vue.js
-
-
-### In my freetime I love: 
-
-&emsp;  :dog2: to take a walk with my dog
-
-&emsp;  :statue_of_liberty: create mini statues
-
-&emsp;  :bike: ride the bike / scooter
-
-&emsp;  :joystick: play singleplayer games
 
 ### Where you can find me:
 <a href="https://www.linkedin.com/in/odrienn/">
@@ -39,7 +30,7 @@
 </a>
 
 ### Languages and tools what I use:
-<p align="left">
+<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>     </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -57,6 +48,7 @@
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="socket-io" width="40" height="40"/>
   </a>
+    <br/>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -75,6 +67,7 @@
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="40" height="40"/>
   </a>
+    <br/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -93,4 +86,23 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-</p>
+</div>
+    
+### Who I am?
+
+After five years in retail, I have come to realize my passion for technology and my love for challenges.<br/>
+I have been self-teaching front-end development for some time and have been fascinated by the potential of technology to impact people's lives.<br/>
+I am excited to learn more about software development, particularly in the back-end, to gain a more comprehensive understanding of the industry.<br/>
+As a dog owner and volunteer with the Red Cross for 7 years, I have improved my interpersonal skills and a passion for helping others.<br/>
+I am driven to create elegant and efficient code, and I am actively seeking opportunities to grow and expand my skillset in programming.
+
+### In my freetime I love: 
+
+  :dog2: to take a walk with my dog
+
+  :statue_of_liberty: create mini statues
+
+  :bike: ride the bike / scooter
+
+  :joystick: play singleplayer games
+
