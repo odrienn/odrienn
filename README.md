@@ -91,8 +91,7 @@ to be a professional developer
 ### Who I am?
 
 After five years in retail, I have come to realize my passion for technology and my love for challenges.
-I have been self-teaching front-end development for some time and have been fascinated by the potential of technology to impact people's lives.
-I am excited to learn more about software development, particularly in the back-end, to gain a more comprehensive understanding of the industry.
+I have been self-teaching front-end development but before starting my journey as a developer, I took the #MyFirstApp course to get a taste of what it's like to develop an app. I enjoyed the experience so much that I decided to pursue a career in software development. That's when I enrolled in the Green Fox Academy full-stack developer super intensive course, where I gained comprehensive knowledge and hands-on experience in web development. The course equipped me with the skills and tools I needed to kickstart my career as a professional developer.
 As a dog owner and volunteer with the Red Cross for 7 years, I have improved my interpersonal skills and a passion for helping others.
 I am driven to create elegant and efficient code, and I am actively seeking opportunities to grow and expand my skillset in programming.
 
