@@ -1,16 +1,14 @@
-### Hi there 👋
+## :ribbon: Welcome to Adrienn Ágij's gitHub profile :ribbon:
 
-<!--
-**odrienn/odrienn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+### This page is currently under maintanance, so check my repository a few days later if you interested :sparkles:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on my portfolio, and doing algorithmic exercises to be a professional developer
+
+Tools what I used during my studies: 
+
+
+
