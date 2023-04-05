@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    :ribbon: Welcome to Adrienn Ágij's gitHub profile :ribbon:
+    :ribbon: Welcome to Adrienn Ágij's GitHub profile :ribbon:
 </h1>
 
 <br/>
