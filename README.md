@@ -13,10 +13,7 @@
 <br/>
 
 🔭 I’m currently working on my portfolio </br>
-and doing algorithmic exercises <br/>
-to be a professional developer
-
-:dart: 2023 goal: learn Bootstrap, Angular & Vue.js
+and doing algorithmic exercises 
 
 ### Where you can find me:
 <a href="https://www.linkedin.com/in/odrienn/">
