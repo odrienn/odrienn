@@ -95,7 +95,7 @@ I have been self-teaching front-end development but before starting my journey a
 As a dog owner and volunteer with the Red Cross for 7 years, I have improved my interpersonal skills and a passion for helping others.
 I am driven to create elegant and efficient code, and I am actively seeking opportunities to grow and expand my skillset in programming.
 
-### In my freetime I love: 
+### In my free time I love: 
 
   :dog2: to take a walk with my dog
 
